@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/ConsoleApp1/v15/Server/sqlite3
+/.vs/ConsoleApp1/v15
+/packages
+/ConsoleApp1/bin/Debug
+/ConsoleApp1/obj/Debug
+/ConsoleApp1/Properties
